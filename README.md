@@ -59,6 +59,7 @@ Prepare a half-page summary or slide of key findings and add some suggestions fo
 Note: Use the 2 datasets within the additional resources for this task and if you’re unsure on where to start with visualizing data, use the accompanying links. Be sure to also use the data description document to understand what the columns represent. The task description document outlines the higher-level motivation of the project.
 
 How to solve this task: Think about ways you can define price sensitivity. Make sure to think of all possible ways and investigate them.
+
 Task 3 - Feature Engineering & Modelling
 
 Uncovering signals within the data, predicting churn probability and evaluating model performance
@@ -91,25 +92,6 @@ Now that you have a dataset of cleaned and engineered features, it is time to bu
 
 Ensure you’re able to explain the performance of your model, where did the model underperform? Why did you choose the evaluation metrics that you used? Please elaborate on your choices. Document the advantages and disadvantages of using the Random Forest for this use case. Do you think that the model performance is satisfactory? Give justification for your answer. (Bonus) - Relate the model performance to the client's financial performance with the introduction of the discount proposition. How much money could a client save with the use of the model? What assumptions did you make to come to this conclusion?
 
-How to solve this task: Sub-Task 1
-
-♦ Think of ways to evaluate a feature against a label.
-
-♦ Think of ways to add new features which would complement the already existing ones.
-
-♦ Think of feature granularity.
-
-♦ Remove unnecessary features.
-
-Sub-Task 2
-
-♦ Is this problem best represented as classification or regression?
-
-♦ What kind of model performance do you think is appropriate?
-
-♦ Most importantly how would you measure such a performance?
-
-♦ How would you tie business metrics such as profits or savings to the model performance?
 Task 4 - Findings & Recommendations
 
 Presenting your results and giving recommended actions to the client
@@ -132,6 +114,6 @@ What is the most important number or metric to share with the client? What impac
 
 How to solve this task:
 
-♦ What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work?
+- What do you think the client wants to hear? How much detail should you go into, especially with the technical details of your work?
 
-♦ Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding
+- Always test what you write with the “so what?” test, i.e. sharing a fact, even an interesting one, only matters if the client can actually do something useful with it. E.g. 60% of your customers are from City A is pointless, but customers in City A should be prioritized for giving discount as they are among your most valuable ones, if true, is an actionable finding
